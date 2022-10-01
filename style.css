@@ -41,3 +41,9 @@ body {
     font-weight: 300;
     -moz-appearance: textfield;
 }
+
+.code::-webkit-outer-spin-button,
+.code::-webkit-inner-spin-button {
+    --webkit-apperence: none;
+    margin: 0;
+}
