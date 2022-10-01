@@ -13,3 +13,24 @@ body {
     overflow: hidden;
     margin: 0;
 }
+
+.conatiner {
+    background-color: #fff;
+    border: 3px #000 solid;
+    border-radius: 10px;
+    padding: 30px;
+    max-width: 1000px;
+    text-align: center;
+}
+
+.code-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 40px 0;
+}
+
+.code {
+    border-radius: 5px;
+    /* font-size: ; */
+}
